@@ -1,0 +1,98 @@
+[
+    {
+        "id": "179037903",
+        "name": "Buzo Oversized “Imitators”",
+        "price": "$19.000,00",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto0009-editar1-cce8cc9633f13ba58f16940254174579-240-0.webp",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto0015-editar1-4a54b5999e84d97fb016940254176178-640-0.webp",
+        "category": "hoodie"
+    },
+    {
+        "id": "179037137",
+        "name": "Remera Oversized “Owners”",
+        "price": "$14.000,00",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto2312-editar1-e0896c60159bfd9c3e16940254644144-240-0.webp",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto2294-editar1-f9e82aa4b0fa46105f16940254644165-640-0.webp",
+        "category": "remera"
+    },
+    {
+        "id": "177558992",
+        "name": "\"Pearl Grey\" Hoodie",
+        "price": "$23.999,00",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1054-editar1-6d3a3329da80f0731516940252310294-240-0.webp",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1044-editar1-ce7b1bd0583d64bca316940252313139-640-0.webp",
+        "category": "hoodie"
+    },
+    {
+        "id": "172878902",
+        "name": "Disrupted Divinity | Hoodie",
+        "price": "$22.999,00",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1084-editar1-2f78059a4ec80a3b7f16940253050819-240-0.webp",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1080-editar1-d1d0af14beb0dfa6d016940253052018-640-0.webp",
+        "category": "hoodie"
+    },
+    {
+        "id": "172874784",
+        "name": "Shadowed Touch | Black Hoodie",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1066-editar1-3aca9260bb2a93d95916940253582163-240-0.webp",
+        "price": "$22.999,00",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1071-editar1-abdeb37718255ccb3016940253581897-640-0.webp",
+        "category": "hoodie"
+    },
+    {
+        "id": "169687693",
+        "name": "Remera Oversized \"Angel's Cream\"",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1114-editar1-7a5a7d7eb4890164f316940256582421-240-0.webp",
+        "price": "$9.500,00",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1129-editar1-c67e95314170cf147316940256582559-640-0.webp",
+        "category": "remera"
+    },
+    {
+        "id": "169648891",
+        "name": "Remera Oversized \"Anniversary\"",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1174-editar1-f86dcb697a5318edc116940256975390-240-0.webp",
+        "price": "$9.500,00",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1215-editar1-c883453901bd0ce81216940256975946-640-0.webp",
+        "category": "remera"
+    },
+    {
+        "id": "169646028",
+        "name": "Remera Oversized \"Error 404\" (...",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto2280-editar1-73cbc798a3cc76235d16940255201527-240-0.webp",
+        "price": "$12.000,00",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto2271-editar1-0376f3b1352247af3f16940255201615-640-0.webp",
+        "category": "remera"
+    },
+    {
+        "id": "163034645",
+        "name": "PRESALE Remera Oversize \"Midnight Grey\" (Entrega a partir del Miercoles 12 de Abril)",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto2258-editar1-ecb19a709838fa2e2416940257599331-240-0.webp",
+        "price": "$9.000,00",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto2246-editar1-a0b5e26bdb3467835316940257599492-640-0.webp",
+        "category": "remera"
+    },
+    {
+        "id": "163032265",
+        "name": "PRESALE Remera Oversize “Perfect Cycles\"",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1173-editar1-8c28f6c9559739bd8f16940258589899-240-0.webp",
+        "price": "$9.000,00",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1157-editar1-7da147945cd524888c16940258590286-640-0.webp",
+        "category": "remera"
+    },
+    {
+        "id": "157341354",
+        "name": "REMERA OVERSIZED DROP SAN VALENTIN'T \"FUCK LUV\" (ENTREGA A PARTIR DEL 23/02)",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto2265-editar1-19178fd859a44d941616940259081407-240-0.webp",
+        "price": "$8.500,00",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto2261-editar1-750a177343e55e25a216940259081410-640-0.webp",
+        "category": "remera"
+    },
+    {
+        "id": "157340033",
+        "name": "REMERA OVERSIZED DROP SAN VALENTIN \"LOVE\" (ENTREGA A PARTIR DEL 23/02)",
+        "image": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1150-editar1-03b085051cf4faca0916940259549368-240-0.webp",
+        "price": "$8.500,00",
+        "imageHover": "//acdn.mitiendanube.com/stores/001/968/823/products/trend-is-dead-foto-producto1143-editar1-d61031fb54d74fedae16940259550039-640-0.webp",
+        "category": "remera"
+    }
+]
